@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="YamkoRambeYamko" size="1.000000 0.963453" />
+    <ImageTarget name="SupMowiYa" size="1.000000 0.959672" />
+    <ImageTarget name="Sajojo" size="1.000000 0.967234" />
+    <ImageTarget name="RasineMaRasine" size="1.000000 0.963453" />
+    <ImageTarget name="EMamboSimbo" size="1.000000 0.957782" />
+    <ImageTarget name="DiruDiruNina" size="1.000000 0.957782" />
+    <ImageTarget name="Apuse" size="1.000000 0.955892" />
+  </Tracking>
+</QCARConfig>
